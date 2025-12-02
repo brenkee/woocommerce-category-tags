@@ -5,4 +5,5 @@ Ez a bővítmény automatikusan megjeleníti az adott WooCommerce termékkategó
 ## Használat
 1. Másold a bővítményt a `wp-content/plugins/` könyvtárba.
 2. Aktiváld az admin felületen.
-3. Nyisd meg bármelyik termékkategória oldalát: a termékcímkék automatikusan megjelennek, és kattintással szűrheted a listát.
+3. A WordPress admin menüben nyisd meg a **Címke szűrő** oldalát, és pipáld be, mely termékkategóriákban legyen aktív a szűrő.
+4. Nyisd meg a kiválasztott termékkategória oldalát: a termékcímkék megjelennek, és kattintással szűrheted a listát.
