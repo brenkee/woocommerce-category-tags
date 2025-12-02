@@ -1,0 +1,30 @@
+.wctags-filter {
+    margin: 1em 0 2em;
+}
+
+.wctags-filter__buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5em;
+    margin-bottom: 0.75em;
+}
+
+.wctags-filter__button {
+    border: 1px solid #007cba;
+    background: #fff;
+    color: #007cba;
+    padding: 0.4em 0.8em;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background 0.2s ease, color 0.2s ease;
+}
+
+.wctags-filter__button:hover,
+.wctags-filter__button.is-active {
+    background: #007cba;
+    color: #fff;
+}
+
+.wctags-filter__form {
+    display: none;
+}
