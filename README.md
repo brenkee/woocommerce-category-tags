@@ -1,0 +1,1 @@
+# woocommerce-category-tags
